@@ -12,6 +12,6 @@ $ rails s
 ```
 
 - access
-  - http:0.0.0.0:3000/users/show/ryooopan
+  - http://0.0.0.0:3000/users/show/ryooopan
   - http://0.0.0.0:3000/tweets/new
   - http://0.0.0.0:3000/tweets/index
