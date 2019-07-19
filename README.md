@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## How to use
+- change directory
+```
+$ cd mitakalab-twitter
+```
 
-Things you may want to cover:
+- start server
+```
+$ rails s
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- access
+  - http:0.0.0.0:3000/users/show/ryooopan
+  - http://0.0.0.0:3000/tweets/new
+  - http://0.0.0.0:3000/tweets/index
